@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<title>Ycomb or Ikea</title>
+        <link href="/static/css/style.css" rel="stylesheet" type="text/css">
+        <link href="/static/css/fonts.css" rel="stylesheet" type="text/css">
+	</head>
+    <body class='site'>
+         <div id="viewport"></div>
+    </body>
+
+    <script id="layout-view-template" type="text/template">
+        <div class="header">
+            <div class="ycomb header_half">
+                <div class="ycomb_y letter_logo">Y</div>
+            </div>
+            <div class="ikea header_half">
+                <div class="ikea_a letter_logo">IKEA</div>
+            </div>
+        </div>
+
+        <div id="content" class="content">
+        </div>
+
+        <div class="footer">
+            <div class="built_by">
+                Built By
+            </div>
+            <div class='name'>
+                <h2> D a n&nbsp;&nbsp;M u r r a y </h2>
+            </div>
+        </div>
+    </script>
+
+    <script id="card-view-template" type="text/template">
+        <% var font_index = Math.floor(Math.random() * 16); %>
+        <div class="card_view">
+            <div class="prompt_wrapper">
+                <div class="plain_style prompt show">
+                    <%=ycomb_name%>
+                </div>
+                <div class="ycomb_style prompt hide random_font_<%=font_index%>">
+                    <%=ycomb_name%>.com
+                </div>
+                <div class="ikea_style prompt hide ">
+                    <%=ikea_name%>
+                </div>
+            </div>
+            <div class="choices_wrapper">
+                <div id="ycomb" class="ycomb_logo_wrapper logo_wrapper">
+                    <div class="ycomb_logo logo">
+                        <div class="ycomb_y">Y</div>
+                        <div class="ycomb_comb">Combinator</div>
+                    </div>
+                    <div class="ycomb_startup thing">
+                        Startup
+                    </div>
+                </div>
+                <div class="or_wrapper">
+                    OR
+                </div>
+                <div id="ikea" class="ikea_logo_wrapper logo_wrapper">
+                    <div class="ikea_logo logo">
+                        IKEA
+                    </div>
+                    <div class="ikea_product thing">
+                        PRØDÜCT
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </script>
+
+    <script id="response-view-template" type="text/template">
+        <% 
+            var correct_response = product ? 'ikea' : 'ycomb';
+            var correct_incorrect = response == correct_response ? 'correct' : 'incorrect';
+            var response_options ={
+                "correct" :[
+                    'Yup',
+                    'That\'s right',
+                    'Correct'
+                ],
+                "incorrect" : [
+                    'Nope',
+                    'Try Again',
+                    'Wrong'
+                ]
+            }
+            var options = response_options[correct_incorrect];
+            var response_text =  options[Math.floor(Math.random()*options.length)]
+
+            var summary = [name, 'is a', product ? desc : 'startup', 'from', product ? 'Ikea' : 'Y Combinator' ,'.', startup ? desc : ''].join(' ');
+
+        %>
+        <div class="card_view">
+            <div class="browser_wrapper">
+                <div class="browser_bar">
+                    <div class="browser_circle red"></div>
+                    <div class="browser_circle yellow"></div>
+                    <div class="browser_circle green"></div>
+                    <div class="address_bar">
+                        <%=url%>
+                    </div>
+                </div>
+                <div class="website_wrapper">
+                    <iframe class="website" src="<%=url%>" ></iframe>
+                </div>
+                <div class="notouch_overlay <%=correct_response%>">
+                    <div class="response_wrapper">
+                        <div class="response_header <%=correct_incorrect%>">
+                            <%=response_text%>
+                        </div>
+                        <div class="summary">
+                            <%=summary%>
+                        </div>
+                        <div class="again">
+                            Play Again
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <%
+                var ycomb_right_wrong = startup ? 'correct' : 'incorrect';
+                var ikea_right_wrong = product ? 'correct' : 'incorrect';
+
+                // product_vote = Math.floor(Math.random() * 100)
+                // startup_vote = Math.floor(Math.random() * 100)
+                console.log(product_vote, startup_vote)
+
+                if (product_vote > startup_vote){
+                    var ikea_desc_show = 'show'
+                    var ycomb_desc_show = 'hide'
+                }else{
+                    var ikea_desc_show = 'hide'
+                    var ycomb_desc_show = 'show'
+                }
+
+                var total = product_vote + startup_vote
+                var ycomb_perc = Math.floor(100 * startup_vote/total)
+                var ikea_perc = 100 - ycomb_perc
+            %>
+            <style>
+                .ycomb_bar{
+                    width: <%=ycomb_perc%>% !important;
+                }
+
+                .ikea_bar{
+                    width: <%=ikea_perc%>% !important;
+                }
+            </style>
+
+            <div class="chart_wrapper">
+                <div class="ycomb_bar bar <%=ycomb_right_wrong%>">
+                    <div class="percentage">
+                        <%=ycomb_perc%>%
+                    </div>
+                    <div class="description <%=ycomb_desc_show%>">
+                        Most people 
+                        <span class="<%=ycomb_right_wrong%>">
+                            <%=ycomb_right_wrong%>ly
+                        </span>
+                        think <%=name%> is a Ycombinator startup. 
+                    </div>
+                </div>
+                <div class="ikea_bar bar <%=ikea_right_wrong%>">
+                    <div class="percentage">
+                        <%=ikea_perc%>%
+                    </div>
+                    <div class="description <%=ikea_desc_show%>">
+                        Most people 
+                        <span class="<%=ikea_right_wrong%>">
+                            <%=ikea_right_wrong%>ly
+                        </span>
+                        think <%=name%> is an Ikea product
+                    </div>
+                </div>
+            </div>
+        </div>
+    </script>
+
+
+    <script src="/static/js/lib/jquery.min.js"></script>
+    <script src="/static/js/lib/underscore.js"></script>
+    <script src="/static/js/lib/backbone.js"></script>
+    <script src="/static/js/lib/backbone.marionette.js"></script>
+    <script src="/static/js/lib/customlib.js"></script>
+
+    <script src="/static/js/models.js"></script>    
+    <script src="/static/js/view.js"></script>
+    <script src="/static/js/app.js"></script>
+</html>

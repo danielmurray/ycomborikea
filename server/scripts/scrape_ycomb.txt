@@ -1,0 +1,159 @@
+http://www.abacus.com	Abacus	Say goodbye to expense reports.	W14
+http://www.algolia.com	Algolia	Build Realtime Search. A powerful API built for developers, Algolia delivers relevant results in your apps and websites from the first keystroke.	W14
+http://www.beaconreader.com	Beacon	Fund one writer for $5 a month. Get access to every story on Beacon.	W14
+http://www.bellabeat.com	Bellabeat	Bellabeat allows you to connect with your unborn baby and share your experience with friends, family and other future moms.	W14
+http://www.cambly.com	Cambly	Private language tutors on-demand.	W14
+http://www.camperoo.com	Camperoo	Thousands of the best summer camps and year-round activities in your area and beyond.	W14
+http://www.gobble.com	Gobble	Let someone else do the cooking. Wholesome family dinners delivered fresh every night.	W14
+http://www.kimonolabs.com	Kimono	Turn websites into structured APIs from your browser in seconds.	W14
+http://minuum.com	Minuum	The best keyboard for smart watches.	W14
+http://www.moveloot.com	Move Loot	The easiest way to buy and sell furniture.	W14
+http://www.noorahealth.org	Noora	Noora Health empowers patients and their families with high-impact medical skills to recover from their condition and improve health outcomes.	W14
+http://www.orankl.com	Orankl	We help you sell more. Smart email marketing and reviews at the distance of a click.	W14
+http://piinpoint.com	Piinpoint	Location analytics made simple. PiinPoint enables businesses to find the best locations for expansion.	W14
+http://pov.io	Povio	Povio enables you to start communicating with friends in the most comfortable way.	W14
+http://shoobs.com	Shoobs	Your night starts here.	W14
+http://www.unbabel.com	Unbabel	Translation as a service. Human corrected machine translation service that enables businesses to communicate globally.	W14
+http://www.vidpresso.com	Vidpresso	Social media on air.	W14
+http://www.getweave.com	Weave	Better phone service for your dental practice that syncs with your dental software.	W14
+http://wit.ai	Witai	Natural Language for the Internet of Things.	W14
+http://www.zesty.com	Zesty	Zesty lets you order healthy meals from your favorite local restaurants.	W14
+http://www.zidisha.org	Zidisha	We are pioneering the first online microlending community to connect lenders and borrowers directly across international borders - overcoming previously insurmountable barriers of geography, wealth and circumstance.	W14
+http://www.zowpow.com	Zowpow	Play mobile games with plush toy characters!	W14
+http://amulyte.com	Amulyte	An Emergency Response System. Reimagined.	S13
+http://www.asseta.com	Asseta	The most transparent platform ever for buying, selling, and managing parts.	S13
+http://coreos.com	Coreos	Linux for Massive Server Deployments CoreOS enables warehouse-scale computing on top of a minimal, modern operating system.	S13
+http://estimote.com	Estimote	Estimote beacons real world context for your apps.	S13
+http://floobits.com	Floobits	Floobits lets you code like you're in the same room.	S13
+http://glio.com	Glio		S13
+http://letshum.com	Hum	HUM, simply redefining the inbox one chat at a time.	S13
+http://kivo.com	Kivo	Get feedback on your presentations.	S13
+http://letote.com	Letote	Welcome to your dream closet. Rent unlimited looks each month.	S13
+http://lob.com	Lob	Power your printing and mailing with Lob. A simple API to integrate print & mail solutions into your applications.	S13
+http://www.lumoid.com	Lumoid	Rent and own high-quality gear and accessories, starting at $5/day. Simple, affordable and fast!	S13
+http://getprim.com	Prim	Same day laundry delivery.	S13
+http://reebee.com	Reebee	Flyers at your fingertips! Simple. Fast. Free.	S13
+http://www.regalii.com	Regalii	Food credit straight to your phone.	S13
+http://senic.com	Senic	Smarter sensing.	S13
+http://urx.com	Urx	Add urx.io/ to every link and drive users to your app, mobile website, or desktop browser.	S13
+http://weilos.com	Weilos	Weilos is the most motivational fitness and weight loss community.	S13
+http://bitnami.com	Bitnami	The App Store for server software. Run any app on any platform.	W13
+http://errplane.com	Errplane	Monitoring, error reporting, and metrics for all your applications.	W13
+http://www.goldbely.com	Goldbely	Our vision is an online marketplace that connects curious eaters with America's best gourmet food purveyors.	W13
+http://www.medisas.com	Medisas	Great healthcare, powered by great software.	W13
+http://www.meldium.com	Meldium	Meldium automates away the tedious, error-prone, and insecure parts of account management so you can do more work with less IT.	W13
+https://getmyo.com	Myo	The MYO armband lets you use the electrical activity in your muscles to wirelessly control your computer, phone, and other favorite digital technologies.	W13
+http://padlet.com	Padlet	Padlet is an Internet application that allows people to express their thoughts on a common topic easily. It works like an online sheet of paper where people can put any content (e.g. images, videos, documents, text) anywhere on the page, together with anyone, from any device.	W13
+http://www.prizeo.com	Prizeo	A fundraising platform enabling celebrities to use their fan bases to raise money and awareness for their chosen causes.	W13
+http://svbtle.com	Svbtle	Svbtle is publishing network that brings some of the best things from newspapers and magazines to a network of great people.	W13
+http://watsi.org	Watsi	Watsi is an online peer-to-peer crowdfunding platform that allows users to fund life-changing medical treatments for underserved people in developing countries.	W13
+http://wevorce.com	Wevorce	Wevorce's divorce services ensure kids come first, costs remain affordable and everyone stays out of court.	W13
+http://www.zaranga.com	Zaranga	Find a professionally managed vacation rental.	W13
+http://amicushq.com	Amicus	Amicus empowers cause-driven organizations to leverage the social networks of their supporters, raise more money, attract more members, and win more votes.	S12
+https://www.authy.com	Authy	Authy makes it easy to add optional two factor authentication to your application. You just add some API calls to your app and your users will be able to use their phones as a second layer of authentication.	S12
+http://www.hubchilla.com	Hubchilla	HubChilla matches you up to similar users and lets you talk to them over SMS.	S12
+http://www.kamcord.com	Kamcord	Kamcord allows users to record and share their awesome gameplays without having to leave their games.	S12
+https://kippt.com	Kippt	With Kippt we want to make your information workflow and archiving effortless.	S12
+http://myvr.com	Myvr	MyVR is online marketing software that allows vacation rental owners and operators to manage all of their vacation rental marketing in one place.	S12
+http://www.plivo.com	Plivo	Plivo is a cloud based API platform to build Voice and SMS Applications.	S12
+http://profig.com	Profig	Profig provides transcriptions, call tracking, voice broadcasting, CRM integration and other custom features to businesses.	S12
+http://refer.ly	Referly	Referly is an Online Referral System for Your Social Network.	S12
+http://www.rent.io	Rentio	Set Rent Accurately. Rent.io helps you set competitive pricing for rental properties.	S12
+http://www.scoutzie.com	Scoutzie	Scoutzie.com is a curated marketplace for design.	S12
+http://www.survata.com	Survata	Survata is a new type of market research and consumer insights service.	S12
+http://www.tapin.tv	TapIn	TapIn is the easiest way to go from seeing to sharing. Broadcast mobile videos instantly.	S12
+http://vastrm.com	Vastrm	Custom Fit, Perfect Fit, Personalized Polos, T-shirts.	S12
+http://www.vayable.com	Vayable	Vayable is an online marketplace where people can discover, buy and sell unique travel experiences, including tours, activities and extended trips.	S12
+http://www.virool.com	Virool	Get your video seen by millions of people! Leverage our platform to distribute your video to people you want on blogs, social games, and mobile apps.	S12
+https://zapier.com	Zapier	Zapier lets SaaS users create integrations that push data between dozens of different web applications without having to write any code or wrangle APIs.	S12
+http://www.ark.com	Ark	Ark.com is a search engine for people. Find new people. Reconnect with old classmates. Make new business contacts. Search your friends.	W12
+http://carsabi.com	Carsabi	Carsabi is a search engine for used cars.	W12
+http://getchute.com	Chute	Chute is a cloud platform that helps apps and sites capture, manage, and display media files	W12
+http://dealupa.com	Dealupa	A fresh, new way to shop daily deals.	W12
+http://letsembark.com	Embark	Embark makes it easy to get around without a car. We make free, fast, and simple mobile apps for mass transit riders worldwide.	W12
+https://www.kytephone.com	Kyte	Kytephone is a free app that transforms an Android smartphone into a safe and fun smartphone for kids.	W12
+http://midnox.com	Midnox	Create stunning HD videos and share them with your friends.	W12
+http://www.tikl.mobi	Tikl	An Android and iOS app that turns your phone into a real-time push-to-talk walkie-talkie that also sends texts, voicemail, images, and video.	W12
+http://leaky.com	Leaky	Leaky helps consumers make better decisions about insurance.	S11
+http://www.opez.com	Opez	The best people around. Who are the best trainers, stylists, etc. around me?	S11
+http://www.picplum.com	Picplum	Share Your Best Moments. Send photo prints to loved ones in seconds.	S11
+http://www.proxino.com	Proxino	Proxino is a cloud platform for monitoring and debugging client-side JavaScript.	S11
+http://www.quartzy.com	Quartzy	Quartzy is an online suite of lab management tools for the academic life science community.	S11
+http://www.rentobo.com	Rentobo	Rentobo is a new tool built for landlords, managers, and agents of all sizes to simplify the process of finding and signing a new tenant for your rental property.	S11
+http://siasto.com	Siasto	Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.	S11
+http://www.stypi.com	Stypi	Stypi is a collaborative real-time text editor similar to Etherpad.	S11
+http://verbling.com	Verbling	Verbling provides users with an innovative way to learn new languages by utilizing video chat technology.	S11
+http://vimessa.com	Vimessa	Vimessa allows you to send free video messages to your friends anywhere in the world, even if they do not have an iPhone.	S11
+http://zigfu.com	Zigfu	Zigfu is the easiest way to make and play Kinect apps. Download the plugin, hook up your sensor, and enjoy the future now!	S11
+http://www.beetailer.com	Beetailer	Beetailer's software helps retailers import existing web stores onto Facebook and gives e-retailers tools for promoting the storefront and detailed analytics about how well it is doing.	W11
+http://www.chirply.com	Chirply	Chirply is a platform for crowd-sourcing & crowd-curating design.	W11
+https://www.custora.com	Custora	Custora offers a SaaS that tells online retailers and web apps which of their customers are most valuable, and suggests actions to keep them.	W11
+http://www.hellofax.com	HelloFax	HelloFax is an online service that helps you send and receive faxes, request signatures and fill out forms all from your computer.	W11
+http://tumultco.com/hype	Hype	Tumult Inc. makes the next generation of designer tools to produce beautiful web content.	W11
+http://lanyrd.com	Lanyrd	Lanyrd is a directory of conferences, events and speakers.	W11
+	Moki	Moki.TV is a directory of all paid and free content included on Amazon's streaming service, Netlfix, Hulu, iTunes, and others.	W11
+http://sendoid.com	Sendoid	Sendoid is an on-demand peer to peer transfer system.	W11
+https://tellfi.com	TellFi	Fastest, easiest way to setup a phone system for your business.	W11
+http://adgrok.com	AdGrok	AdGrok allows business owners to automate the process of choosing and bidding on keywords on Google AdWords.	S10
+http://www.aerofs.com	AeroFS	AeroFS is a program where users are able to manage and store their files and data in a cloud-like platform.	S10
+http://gantto.com	Gantto	Gantto was conceived to fill one obvious gap in our weekly management routine.	S10
+http://ginzametrics.com	Ginza	Ginzametrics makes enterprise SEO simple and easy to manage.	S10
+http://www.hipmunk.com	Hipmunk	Hipmunk is a travel search site that aims to take the agony out of travel planning.	S10
+http://indinero.com	Indinero	Accounting, taxes & payroll. One solution. inDinero is your company's accounting department.	S10
+http://www.koduco.com	Koduco	Koduco makes iPad games that focus on multiplayer collaboration on the same device.	S10
+http://www.opzi.com	Opzi	Opzi is creating software to make corporate knowledge accessible.	S10
+https://stripe.com	Stripe	Stripe is a simple, developer-friendly way to accept payments online.	S10
+http://teevox.com	Teevox	Fast stream watching.	S10
+http://www.etacts.com	Etacts	Etacts is a CRM for people - it helps you keep in touch with people in your address book.	W10
+http://www.fabricly.com	Fabricly	Designers - Sell on Fabricly. Fabricly is a great way for you to gain extra exposure, whether you're already selling online or if you're just getting started.	W10
+http://www.gamador.com	Gamador	Gamador is a social game developer that has released three games so far.	W10
+	Notifo	Notifo is a mobile application and platform which allows any web site or service to easily create mobile notifications.	W10
+http://www.optimizely.com	Optimizely	Simple, fast, and powerful.	W10
+	Swagapalooza		W10
+http://zenedy.com	Zenedy	Learn something new every day with new articles written daily about topics discovered from all around the web.	W10
+http://www.lingt.com	Lingt	Lingt is a service for learning languages that takes advantage of gameplay mechanics to keep users coming back for more.	S09
+http://www.listia.com	Listia	Listia, which launched in August 2009, is eBay for free stuff.	S09
+http://www.olark.com	Olark	Olark is a lightweight tool to chat with visitors to your website using your existing instant messaging client.	S09
+http://www.tuxebo.co.uk	Tuxebo	Tuxebo connects people looking for things to rent from local rental companies.	S09
+http://adioso.com	Adioso	Adioso is a better search and booking app for leisure travel.	W09
+http://airbnb.com	AirBnb	Founded in August 2008 and based in San Francisco, California, Airbnb is a trusted community marketplace for people to list, discover, and book unique spaces around the world – online or from a mobile phone.	W09
+http://www.echodio.com	Echodio	Echodio makes it easy to keep iTunes music libraries in sync, securely backed up and streamable from anywhere.	W09
+http://foodoro.com	Foodoro	Foodoro is a marketplace where people can buy specialty food directly from artisanal Foodmakers.	W09
+https://www.heyzap.com	Heyzap	Heyzap is a premier mobile ad network that helps millions of users discover apps they love.	W09
+	Nambii	Nambii is an online dating service with iPhone applications that allow users to send and receive flirts with people around them.	W09
+http://picurio.com	Picurio	Picurio is web-based photo sharing and photo management software.	W09
+	Propable	Propable was a suite of online management and investment analysis tools for property investors.	W09
+https://voxli.com	Voxli	Voxli offers browser-based group voice chat for gamers and teams.	W09
+http://www.anyvite.com	Anyvite	Anyvite is a free site dedicated to event invitation creation and group organization.	S08
+http://www.picwing.com	Picwing	Picwing is a photo sharing platform that enables users to share their photos through a variety of sources.	S08
+http://www.justspotted.com	Scoopler	The artist-formerly-known-as Scoopler is a real-time search engine.	S08
+http://slinkset.com	Slinkset	Slinkset is a white label social news platform that allows anyone to start a social news site and integrate it into their own website.	S08
+	Snipd	Grab pieces of enjoyable content from any page, save them online, and share without having to copy/paste using a simple bookmarklet.	S08
+http://www.startuply.com	Startuply	Startup companies. Startup jobs. Jobs at the world's best angel- and venture-backed web, media, and technology companies.	S08
+	Fliggo	Fliggo, formerly known as Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web.	S08
+http://deluux.com	Deluux	Deluux aims to become distributed Facebook, or inverted Ning, by relocating the center of peopleâ€™s online identities to their websites, which exist outside of any one social network.	W08
+http://www.heroku.com	Heroku	Heroku is the first and best multi-language cloud application platform, or platform-as-a-service.	W08
+http://insoshi.com	Insoshi	Insoshi is an open-source open networking platform.	W08
+	Mixwit	Mixwit describes itself as a combination of Slide and iTunes.	W08
+http://ninite.com	Ninite	The easiest, fastest way to update or install software. Ninite downloads and installs programs automatically in the background.	W08
+http://omnisio.com	Omnisio	Omnisio was founded in 2007 by Ryan Junee, Simon Ratner and Julian Frumar, and was subsquently acquired by YouTube in July 2008.	W08
+	Wundrbar	Wundrbar wants to improve upon the search bar experience by providing users with powerful inline commands.	W08
+http://bountii.com	Bountii	Browse the best deals on electronics and appliances from top stores like Amazon.com, Newegg, CircuitCity, Best Buy, Walmart, and Dell.	S07
+http://cloudant.com	Cloudant	The Cloudant Data Layer is the cloud database service managed by experts.	S07
+http://www.disqus.com	Disqus	Beautiful, real-time, engaging discussions for your website. With a few quick steps, you can turn your old comment system into a new way to engage your visitors.	S07
+http://www.dropbox.com	Dropbox	Dropbox was founded in 2007 by Drew Houston and Arash Ferdowsi.	S07
+	iJigg	iJigg is a social music site that lets users vote on submitted singles using Digg-like voting.	S07
+http://www.justin.tv	Justin	Justin.tv is the easiest way to create live video and show anyone in the world what's happening right now. Justin.tv makes it fun, easy and fast to gather and engage with a live audience.	S07
+	Reble	Reble offers a software download, only for windows, that allows users to stream music from your friends who also have installed Reble.	S07
+http://www.buxfer.com	Buxfer	Buxfer is the next-generation personal finance solution, taking money management to the web.	W07
+	Heysan	Heysan is a free mobile messaging and community based in San Francisco, California.	W07
+http://scribd.com	Scribd	Scribd is a social reading and publishing website.	S06
+	Talkito	A service that enables its users to meet and chat when they visit the same websites.	S06
+http://www.xobni.com	Xobni	Xobni (the word inbox spelled backwards) makes your inbox and address book smarter.	S06
+http://www.clustrix.com	Clustrix	Clustrix has built a NewSQL database with no limits.	W06
+	Flagr	Flagr enables users to share places, adding photos, video and descriptions from their mobile phone.	W06
+http://wufoo.com	Wufoo	Wufoo's HTML form builder helps you create online web forms. Use our web form creator to power your contact forms, online surveys, and event registrations.	W06
+http://kiko.com	Kiko	Kiko is a web calendar for anyone who wants to keep and share a calendar online.	S05
+http://www.loopt.com	Loopt	Loopt is a social service that connects people to their community.	S05
+	Memamp		S05
+http://reddit.com	Reddit	Launched in 2005, Reddit is a social news website that displays news based on your personal preferences and what the community likes.	S05

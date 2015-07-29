@@ -1,0 +1,177 @@
+@font-face {
+  font-family: "adam";
+  src: url("fonts/adam.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_0 {
+  font-family: "adam";
+}
+
+@font-face {
+  font-family: "aleo";
+  src: url("fonts/aleo.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_1 {
+  font-family: "aleo";
+}
+
+@font-face {
+  font-family: "bello";
+  src: url("fonts/bello.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_2 {
+  font-family: "bello";
+}
+
+@font-face {
+  font-family: "code";
+  src: url("fonts/code.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_3 {
+  font-family: "code";
+}
+
+@font-face {
+  font-family: "codeb";
+  src: url("fonts/codeb.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_4 {
+  font-family: "codeb";
+}
+
+@font-face {
+  font-family: "ikea";
+  src: url("fonts/ikea.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_5 {
+  font-family: "ikea";
+}
+
+@font-face {
+  font-family: "infinity";
+  src: url("fonts/infinity.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_6 {
+  font-family: "infinity";
+}
+
+@font-face {
+  font-family: "langdon";
+  src: url("fonts/langdon.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_7 {
+  font-family: "langdon";
+}
+
+@font-face {
+  font-family: "lato";
+  src: url("fonts/lato.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_8 {
+  font-family: "lato";
+}
+
+@font-face {
+  font-family: "lobster";
+  src: url("fonts/lobster.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_9 {
+  font-family: "lobster";
+}
+
+@font-face {
+  font-family: "lora";
+  src: url("fonts/lora.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_10 {
+  font-family: "lora";
+}
+
+@font-face {
+  font-family: "nougatine";
+  src: url("fonts/nougatine.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_11 {
+  font-family: "nougatine";
+}
+
+@font-face {
+  font-family: "populaire";
+  src: url("fonts/populaire.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_12 {
+  font-family: "populaire";
+}
+
+@font-face {
+  font-family: "rex";
+  src: url("fonts/rex.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_13 {
+  font-family: "rex";
+}
+
+@font-face {
+  font-family: "weston";
+  src: url("fonts/weston.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_14 {
+  font-family: "weston";
+}
+
+@font-face {
+  font-family: "ycomb";
+  src: url("fonts/ycomb.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 29, fonts.scss */
+.random_font_15 {
+  font-family: "ycomb";
+}
+
+/*# sourceMappingURL=fonts.css.map */

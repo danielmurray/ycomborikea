@@ -1,0 +1,35 @@
+$fonts: (
+	("adam","otf"),
+	("aleo","ttf"),
+	("bello","ttf"),
+	("code","otf"),
+	("codeb","otf"),
+	("ikea","otf"),
+	("infinity","ttf"),
+	("langdon","otf"),
+	("lato","ttf"),
+	("lobster","ttf"),
+	("lora","ttf"),
+	("nougatine","ttf"),
+	("populaire","otf"),
+	("rex","otf"),
+	("weston","otf"),
+	("ycomb","otf")
+);
+$i: 0;
+
+@each $font-name, $font-ext in $fonts {
+	@font-face {
+		font-family: $font-name;
+		src: url('fonts/'+$font-name+'.'+$font-ext);
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	.random_font_#{$i}{
+		font-family: $font-name;
+	}
+
+	$i: $i+1
+}
+
