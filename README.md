@@ -12,4 +12,4 @@ Y Combinator Startup or Ikea Product?
 ### Running
 
 - `cd ycomborikea`
-- `env/bin/python2 server/app.py`
+- `env/bin/python2 server/application.py`
