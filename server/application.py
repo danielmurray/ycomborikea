@@ -8,7 +8,6 @@ import logging, uuid, random
 def random_row(Table):
     query = db.session.query(Table)
     row = query.offset(int(query.count() * random.random() )).first()
-    row = query.offset(0).first()
     return row
 
 app = Flask(__name__)
