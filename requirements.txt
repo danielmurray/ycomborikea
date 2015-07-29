@@ -2,10 +2,12 @@ beautifulsoup4==4.4.0
 DateTime==4.0.1
 Flask==0.10.1
 Flask-SQLAlchemy==2.0
+gunicorn==19.3.0
 itsdangerous==0.24
 Jinja2==2.8
 jsonschema==2.4.0
 MarkupSafe==0.23
+psycopg2==2.6.1
 pytz==2015.4
 sass==2.3
 SQLAlchemy==1.0.8

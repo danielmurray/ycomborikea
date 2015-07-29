@@ -1,0 +1,6 @@
+*.pyc
+*.xlsx
+*.xlsx
+env/lib
+env/bin
+env/include

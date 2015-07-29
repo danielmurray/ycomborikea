@@ -76,6 +76,7 @@ class Ycomb(db.Model, Base):
 
 @app.route("/")
 def root():
+    print 'hello world'
     return render_template('index.html')
 
 @app.route(u'/ycomborikea', methods=[u'GET', u'PUT'])
