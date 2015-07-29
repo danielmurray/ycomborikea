@@ -18,6 +18,13 @@ $ycomb-orange: rgba(242,101,34,1);
 	justify-content : $alignment;
 }
 
+@mixin flexbox-flex-direction($direction){
+	-webkit-flex-direction : $direction;
+	-ms-flex-direction : $direction;
+	-moz-flex-direction : $direction;
+	flex-direction : $direction;
+}
+
 @mixin flexbox-flex-wrap{
 	-webkit-flex-wrap :wrap;
 	-ms-flex-wrap :wrap;
@@ -113,7 +120,7 @@ html{
 	}
 
 	.content{
-		margin-top: 40px;
+		margin-top: 20px;
 	}
 
 	.footer{
@@ -153,14 +160,14 @@ html{
 
 	.card_view{
 		@include box-shadow;	
-		max-width: 720px;
+		width: 720px;
 		background-color: whitesmoke;
 		position: relative;
 
 		.prompt_wrapper{
 			@include flexbox-display-flex;
 			@include flexbox-justify(center);
-			height: 430px;
+			height: 400px;
 			font-size: 72px;
 			line-height: 72px;
 
@@ -188,9 +195,8 @@ html{
 		.choices_wrapper{
 		  	@include flexbox-display-flex;
 		  	@include background-split;
-
-			min-height: 150px;
 		  	width: 100%;
+		  	height: 130px;
 		  	
 		  	.or_wrapper{
 		  		display: inline-table;
@@ -209,21 +215,19 @@ html{
 		  		@include flexbox-display-flex;
 		  		@include flexbox-justify(center);
 		  		@include flexbox-flex-wrap;
-	  			
+		  		@include flexbox-flex-direction(column);
+
 	  			height: inherit;
-		  		min-width: 225px;
 	  			width: 50%;
-	  			padding: 5px;
 
 	  			.logo,
 	  			.thing{
-	  				margin: 10px;
 		  			@include flexbox-align-self(center);
 	  			}
 			}
 
 			.logo_wrapper:hover{
-				width: 110%;
+				width: 70%;
 			}
 			  	
 	  		.ycomb_logo_wrapper{
@@ -289,7 +293,7 @@ html{
 		}
 
 		.browser_wrapper{
-			height: 430px;
+			height: 400px;
 			overflow: hidden;
 			width: 100%;
 			border-radius: 4px;
@@ -301,7 +305,7 @@ html{
 
 				position: absolute;
 				top: 0;
-				height: 430px;
+				height: 400px;
 				width: 100%;
 				z-index: 1;
 				background-color: rgba(0,0,0,0.5);
@@ -397,18 +401,16 @@ html{
 
 		.chart_wrapper{
 			@include flexbox-display-flex;
-			min-height: 150px;
 		  	width: 100%;
 
 		  	.bar{
-		  		position: relative;
 		  		@include flexbox-display-flex;
 		  		@include flexbox-justify(space-around);
 
-	  			height: inherit;
+	  			height: 120px;
 	  			width: 50%;
 	  			border-bottom: solid 10px;
-	  			padding: 0px 40px;
+	  			padding: 0px 25px;
 	  			overflow: hidden;
 
 	  			.percentage{

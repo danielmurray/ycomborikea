@@ -1,6 +1,5 @@
 *.pyc
 *.xlsx
-*.xlsx
-env/lib
-env/bin
-env/include
+.DS_Store
+.Python
+env
