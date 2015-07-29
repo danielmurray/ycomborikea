@@ -224,6 +224,10 @@ html{
 	  			.thing{
 		  			@include flexbox-align-self(center);
 	  			}
+
+	  			.thing{
+	  				margin-top: 10px;
+	  			}
 			}
 
 			.logo_wrapper:hover{

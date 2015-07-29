@@ -235,15 +235,19 @@ html {
   -moz-align-self: center;
   align-self: center;
 }
-/* line 229, style.scss */
+/* line 228, style.scss */
+#content .card_view .choices_wrapper .logo_wrapper .thing {
+  margin-top: 10px;
+}
+/* line 233, style.scss */
 #content .card_view .choices_wrapper .logo_wrapper:hover {
   width: 70%;
 }
-/* line 233, style.scss */
+/* line 237, style.scss */
 #content .card_view .choices_wrapper .ycomb_logo_wrapper {
   background-color: #f26522;
 }
-/* line 236, style.scss */
+/* line 240, style.scss */
 #content .card_view .choices_wrapper .ycomb_logo_wrapper .ycomb_logo {
   font-family: 'ycomb';
   font-size: 35px;
@@ -252,33 +256,33 @@ html {
   background-color: #f26522;
   white-space: nowrap;
 }
-/* line 245, style.scss */
+/* line 249, style.scss */
 #content .card_view .choices_wrapper .ycomb_logo_wrapper .ycomb_logo .ycomb_y {
   text-align: center;
 }
-/* line 249, style.scss */
+/* line 253, style.scss */
 #content .card_view .choices_wrapper .ycomb_logo_wrapper .ycomb_logo .ycomb_comb {
   color: #f26522;
   background-color: white;
 }
-/* line 254, style.scss */
+/* line 258, style.scss */
 #content .card_view .choices_wrapper .ycomb_logo_wrapper .ycomb_logo .ycomb_y,
 #content .card_view .choices_wrapper .ycomb_logo_wrapper .ycomb_logo .ycomb_comb {
   display: inline-block;
   padding: 10px 5px 5px 5px;
 }
-/* line 261, style.scss */
+/* line 265, style.scss */
 #content .card_view .choices_wrapper .ycomb_logo_wrapper .ycomb_startup {
   font-family: "lobster";
   font-size: 28px;
   letter-spacing: 1px;
   color: white;
 }
-/* line 269, style.scss */
+/* line 273, style.scss */
 #content .card_view .choices_wrapper .ikea_logo_wrapper {
   background-color: #003399;
 }
-/* line 272, style.scss */
+/* line 276, style.scss */
 #content .card_view .choices_wrapper .ikea_logo_wrapper .ikea_logo {
   border-radius: 100px / 40px;
   padding: 5px 25px;
@@ -288,7 +292,7 @@ html {
   color: #003399;
   background-color: #ffcc00;
 }
-/* line 284, style.scss */
+/* line 288, style.scss */
 #content .card_view .choices_wrapper .ikea_logo_wrapper .ikea_product {
   font-family: Verdana,sans-serif;
   font-weight: bold;
@@ -297,7 +301,7 @@ html {
   color: white;
   padding: 0 30px;
 }
-/* line 295, style.scss */
+/* line 299, style.scss */
 #content .card_view .browser_wrapper {
   height: 400px;
   overflow: hidden;
@@ -305,7 +309,7 @@ html {
   border-radius: 4px;
   z-index: 0;
 }
-/* line 302, style.scss */
+/* line 306, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay {
   display: -webkit-box;
   display: -moz-box;
@@ -323,7 +327,7 @@ html {
   z-index: 1;
   background-color: rgba(0, 0, 0, 0.5);
 }
-/* line 313, style.scss */
+/* line 317, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay .response_wrapper {
   -webkit-align-self: center;
   -ms-align-self: center;
@@ -335,12 +339,12 @@ html {
   font-family: 'ycomb';
   text-align: center;
 }
-/* line 321, style.scss */
+/* line 325, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay .response_wrapper .response_header {
   font-size: 72px;
   text-align: center;
 }
-/* line 326, style.scss */
+/* line 330, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay .response_wrapper .again {
   cursor: pointer;
   display: inline-block;
@@ -349,27 +353,27 @@ html {
   margin-top: 20px;
   padding: 10px 20px;
 }
-/* line 335, style.scss */
+/* line 339, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay .response_wrapper .again:hover {
   opacity: 0.75;
 }
-/* line 339, style.scss */
+/* line 343, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay .response_wrapper .response_header.correct {
   color: #308A56;
 }
-/* line 340, style.scss */
+/* line 344, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay .response_wrapper .response_header.incorrect {
   color: #DF7065;
 }
-/* line 345, style.scss */
+/* line 349, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay.ikea .response_header {
   font-family: 'ikea';
 }
-/* line 349, style.scss */
+/* line 353, style.scss */
 #content .card_view .browser_wrapper .notouch_overlay.ycomb .response_header {
   font-family: 'ycomb';
 }
-/* line 353, style.scss */
+/* line 357, style.scss */
 #content .card_view .browser_wrapper .browser_bar {
   display: -webkit-box;
   display: -moz-box;
@@ -381,7 +385,7 @@ html {
   background-color: #E8E8E8;
   padding: 2px 10px;
 }
-/* line 361, style.scss */
+/* line 365, style.scss */
 #content .card_view .browser_wrapper .browser_bar .browser_circle {
   -webkit-align-self: center;
   -ms-align-self: center;
@@ -392,19 +396,19 @@ html {
   border-radius: 15px;
   margin-right: 5px;
 }
-/* line 369, style.scss */
+/* line 373, style.scss */
 #content .card_view .browser_wrapper .browser_bar .red {
   background-color: #DF7065;
 }
-/* line 370, style.scss */
+/* line 374, style.scss */
 #content .card_view .browser_wrapper .browser_bar .yellow {
   background-color: #E6BB46;
 }
-/* line 371, style.scss */
+/* line 375, style.scss */
 #content .card_view .browser_wrapper .browser_bar .green {
   background-color: #5BCC8B;
 }
-/* line 373, style.scss */
+/* line 377, style.scss */
 #content .card_view .browser_wrapper .browser_bar .address_bar {
   -webkit-align-self: center;
   -ms-align-self: center;
@@ -416,7 +420,7 @@ html {
   margin-left: 10px;
   padding: 5px;
 }
-/* line 383, style.scss */
+/* line 387, style.scss */
 #content .card_view .browser_wrapper .website {
   width: 1440px;
   height: 800px;
@@ -433,7 +437,7 @@ html {
   -ms-transform-origin: top left;
   transform-origin: top left;
 }
-/* line 402, style.scss */
+/* line 406, style.scss */
 #content .card_view .chart_wrapper {
   display: -webkit-box;
   display: -moz-box;
@@ -442,7 +446,7 @@ html {
   display: flex;
   width: 100%;
 }
-/* line 406, style.scss */
+/* line 410, style.scss */
 #content .card_view .chart_wrapper .bar {
   display: -webkit-box;
   display: -moz-box;
@@ -459,7 +463,7 @@ html {
   padding: 0px 25px;
   overflow: hidden;
 }
-/* line 416, style.scss */
+/* line 420, style.scss */
 #content .card_view .chart_wrapper .bar .percentage {
   -webkit-align-self: center;
   -ms-align-self: center;
@@ -467,7 +471,7 @@ html {
   align-self: center;
   font-size: 40px;
 }
-/* line 421, style.scss */
+/* line 425, style.scss */
 #content .card_view .chart_wrapper .bar .description {
   -webkit-align-self: center;
   -ms-align-self: center;
@@ -480,34 +484,34 @@ html {
   font-family: 'ycomb';
   padding: 20px;
 }
-/* line 430, style.scss */
+/* line 434, style.scss */
 #content .card_view .chart_wrapper .bar .description span {
   text-transform: uppercase;
   font-weight: bold;
 }
-/* line 437, style.scss */
+/* line 441, style.scss */
 #content .card_view .chart_wrapper .correct {
   color: green;
   border-color: green;
 }
-/* line 438, style.scss */
+/* line 442, style.scss */
 #content .card_view .chart_wrapper .incorrect {
   color: #c80000;
   border-color: #c80000;
 }
-/* line 440, style.scss */
+/* line 444, style.scss */
 #content .card_view .chart_wrapper .ycomb_bar {
   font-family: 'ycomb';
   color: white;
   background-color: #f26522;
 }
-/* line 446, style.scss */
+/* line 450, style.scss */
 #content .card_view .chart_wrapper .ikea_bar {
   font-family: 'ikea';
   color: #ffcc00;
   background-color: #003399;
 }
-/* line 452, style.scss */
+/* line 456, style.scss */
 #content .card_view .chart_wrapper .correct_incorrect_bar {
   height: 10px;
   width: 100%;
